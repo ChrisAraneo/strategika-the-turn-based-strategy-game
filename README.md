@@ -1,1 +1,1 @@
-# turn-based-strategy-game
+# Strategika - the turn based strategy game
